@@ -1,6 +1,6 @@
-# estudo de criação de conta de banco
+# estudo de criação de um sistema de funcionários para uma empresa
 
-> status do projeto: Desenvolvido para entender oque é Polimorfismo, herança e composição. 
+> status do projeto: Desenvolvido para entender oque é polimorfismo, herança e composição. 
 
 ``
  Segue link para verificar o luxograma do código: 
