@@ -1,4 +1,4 @@
-# estudo de criação de um sistema de funcionários para uma empresa.
+# Estudo de criação de um sistema de funcionários para uma empresa.
 
 > status do projeto: Desenvolvido para entender oque é polimorfismo, herança e composição. 
 
